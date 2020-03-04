@@ -1,3 +1,3 @@
-# Opengl
+# Git
 
-opengl入门学习日志。
+Git入门学习操作。
